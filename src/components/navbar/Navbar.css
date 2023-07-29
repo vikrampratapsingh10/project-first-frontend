@@ -1,0 +1,13 @@
+
+#n{
+  position: relative;
+  height: 100px;
+  width: 100%;
+}
+
+#w{
+  position: fixed;
+  height: 100px;
+  width: 100%;
+  z-index: 1;
+}
